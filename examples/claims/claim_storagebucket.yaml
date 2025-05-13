@@ -1,0 +1,9 @@
+apiVersion: infraweave.io/v1
+kind: StorageBucket
+metadata:
+  name: my-storagebucket1
+spec:
+  region: westeurope
+  moduleVersion: 0.0.36-dev+test.3 # The released version to use
+  variables:
+    bucketName: makemeunique123

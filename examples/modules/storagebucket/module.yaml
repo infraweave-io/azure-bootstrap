@@ -1,0 +1,13 @@
+apiVersion: infraweave.io/v1
+kind: Module
+metadata:
+  name: storagebucket
+spec:
+  moduleName: StorageBucket
+  version: 0.0.36-dev+test.3
+  reference: https://github.com/test-org/modules/storagebucket
+  cpu: "1.0"
+  memory: "1.0"
+  description: |
+    A module to create a storage bucket in Azure Blob Storage
+
