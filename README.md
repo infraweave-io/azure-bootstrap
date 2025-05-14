@@ -11,8 +11,9 @@ Current status:
 
 - [x] InfraWeave Platform base (list+publish modules/stacks, list+create+destroy deployments etc)
 - [ ] Reconciler - *In progress*
+- [ ] Logging
 - [ ] Gitops - Webhook support
-- [ ] Security verification
+- [ ] Identity access management review
 
 ## Clone the repo
 
